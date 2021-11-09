@@ -49,13 +49,4 @@ Used Tech-stack:
   
   <img alt="Slide 6" src="./Screenshots/6.png" />
 </div>
-<div align="center">
-  <h2 align ="left"> Slide 7 </h2>
- 
-  <img alt="Slide 7" src="./Screenshots/7.png" />
-</div>
-<div align="center">
-  <h2 align ="left"> Slide 7  </h2> 
-  
-  <img alt="Slide 8" src="./Screenshots/8.png" />
-</div>
+
